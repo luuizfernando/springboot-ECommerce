@@ -1,4 +1,4 @@
-package com.project.course.resources.excpetions;
+package com.project.course.resources.exceptions;
 
 import java.time.Instant;
 
